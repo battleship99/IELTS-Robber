@@ -1,4 +1,6 @@
 # Get-IELTS-Seat-CN
-A automated script to get an seat for the IELTS test in Mainland China
+Automated script to grab a seat for IELTS tests in Mainland China.
 
-see http://www.jianshu.com/p/728e428fe335
+Configure before use.
+
+For more information kindly click: http://www.jianshu.com/p/728e428fe335
